@@ -1,6 +1,3 @@
-//KAHO WAS HERE
-//kaho was here and branching
-
 import processing.serial.*;
 
 Serial myPort;  // Create object from Serial class
